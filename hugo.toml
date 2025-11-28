@@ -1,4 +1,5 @@
 baseURL = "https://ysk6092.github.io/my-artist-site/"
+
 languageCode = "zh-tw"
 title = "Chang,Jui-Che / 張瑞哲"
 theme = "papermod"
